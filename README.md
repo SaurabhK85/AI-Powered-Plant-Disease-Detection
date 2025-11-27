@@ -1,4 +1,4 @@
-# 🌾 AI-Based Plant Disease Detection Web Application
+# 🌾 AI-Based Plant Disease Detection
 
 An intelligent web-based solution that assists farmers and agricultural professionals in identifying plant diseases by analyzing leaf images. Users can upload a photo of a plant leaf, and the system predicts the disease along with practical treatment suggestions in both English and Hindi.
 
