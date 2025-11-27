@@ -109,7 +109,7 @@ Open your browser and go to:
 
 ## 📞 Contact Details
 
-**Anushka Gupta**
+**Saurabh Kumar**
 📧 Email: [skbarh85@gmail.com](mailto:skbarh85@gmail.com)
 📱 Phone: +91-9430263683
 
@@ -138,9 +138,3 @@ This project is released under the MIT License. You are free to use, modify, and
 
 ---
 
-✅ *Note:*
-Update placeholder links, demo images, and contact details as per your project setup. You may also include `.gitignore`, `LICENSE`, and improved documentation for a more professional structure.
-
----
-
-If you need additional files like requirements.txt, .gitignore, or a full project template, just let me know 🙂
